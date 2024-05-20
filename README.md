@@ -1,6 +1,6 @@
-# README  
+# Generating Synthetic evaluation data for RAG using Azure OpenAI
    
-This repository contains a Python notebook that demonstrates the use of Azure OpenAI to generate synthetic question-answer pairs from a PDF document in order to create labelled evaluation data for a Retrieval Augmented Generation application. 
+This repository contains a Python notebook that demonstrates the use of GPT-4 on Azure OpenAI to generate synthetic question-answer pairs from a PDF document in order to create labelled evaluation data for a Retrieval Augmented Generation application. 
    
 ## Contents  
 - `synthetic_rag_evaluation_data.ipynb`: The primary notebook that guides you through the following steps:  
